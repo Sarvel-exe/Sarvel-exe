@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="<iframe src="https://gifer.com/embed/TQPW" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">a través de GIFER</a></p>"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<h3 align="left">👩‍💻  About Me:<br><br>Soy estudiante de Ciberseguridad, me apasiona aprender y compartir mi conocimiento d</h3>
+<h3 align="left">👩‍💻  About Me:<br><br>Soy estudiante de Ciberseguridad, me apasiona aprender y compartir mi conocimiento con la comunidad</h3>
 
 ###
 
